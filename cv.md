@@ -26,7 +26,6 @@ Your task in order to complete this Kata is to write a function which formats a 
 
 The function must accept a non-negative integer. If it is zero, it just returns "now". Otherwise, the duration is expressed as a combination of years, days, hours, minutes and seconds.
 
-<!-- CodeWars -->
 ```
 function formatDuration(seconds) {
     if (seconds == 0) {
