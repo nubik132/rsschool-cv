@@ -73,5 +73,5 @@ function formatDuration(seconds) {
 
 * Python course on [Courcera](https://coursera.org/share/84c3673efd5f56ef0676cbbd9a638ed1)
 * JavaScript Manual on learnjavascript.ru (in progress)
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 2» (in progress)
 English: B1/B2 (according to [EFSET](https://www.efset.org/quick-check/take-test/#set15-190/result)).
